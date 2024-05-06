@@ -1,0 +1,14 @@
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.AssemblyInfoInputs.cache
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.AssemblyInfo.cs
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.csproj.CoreCompileInputs.cache
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\bin\Debug\net8.0\LeetCode_121.exe
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\bin\Debug\net8.0\LeetCode_121.deps.json
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\bin\Debug\net8.0\LeetCode_121.runtimeconfig.json
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\bin\Debug\net8.0\LeetCode_121.dll
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\bin\Debug\net8.0\LeetCode_121.pdb
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.dll
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\refint\LeetCode_121.dll
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.pdb
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\LeetCode_121.genruntimeconfig.cache
+C:\Users\Bony\Repos\C# Projects\LeetCode_121\obj\Debug\net8.0\ref\LeetCode_121.dll
